@@ -30,6 +30,8 @@ const About = () => {
       </div>
       <div  data-aos="fade-up" className=" px-5 py-10">
         <img className="mx-auto" src={require("./imgs/quote.png")} alt="" />
+
+
       </div>
     </>
   );
